@@ -1,1 +1,14 @@
-# Define the variable board below.
+#
+
+ Define the variable board below.
+
+ def board
+  |   |   
+---------
+  |   |   
+---------
+  |   |
+end
+
+board => [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+end
